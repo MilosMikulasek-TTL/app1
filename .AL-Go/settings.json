@@ -4,6 +4,6 @@
                        "HelloWorld"
                    ],
     "testFolders":  [
-
+                        "app1.Test"
                     ]
 }
